@@ -8,7 +8,9 @@
 # Standard Cyber Threat Intelligence (CTI) Report
 
 [Organization Name] Cyber Threat Intelligence Report
+
 Date: [Date]
+
 Prepared by: [Your Name], [Position/Role Title]
 
 ### Executive Summary:
